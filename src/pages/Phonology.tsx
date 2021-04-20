@@ -1,6 +1,8 @@
 import styled from 'styled-components'
 import Generic from './Generic'
 
+//load model
+
 const Phonology = () => {
   return (
     <Generic>

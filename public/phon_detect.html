@@ -1,0 +1,121 @@
+<!doctype html>
+<body>
+<canvas id="myCanvas" width="300" height="100" style="border:1px solid #000000;"></canvas>
+<script src="https://cdn.jsdelivr.net/npm/onnxjs/dist/onnx.min.js"></script>
+<script>
+
+/*TEST 5 - model inference & instant fft (built-in) using new collection*/
+var canvas = document.getElementById("myCanvas");
+var canvas_ctx = canvas.getContext("2d");
+
+//load onnx model
+const sess = new onnx.InferenceSession();
+const loadingModelPromise = sess.loadModel("./i_ih.onnx");
+
+// Globals
+var audioCtx;
+var analyser;
+var microphone;
+var FSAMP;
+
+// implement linear interpolation to get 200 dim vect
+function downsize(arr, dim) {
+    out = new Float32Array(dim);
+    for (var i=0; i < dim; i++) {
+        var ind = arr.length * (i / dim);
+        var bot = Math.floor(ind);
+        var top = Math.ceil(ind);
+        var dif = arr[top] - arr[bot];
+        var val = arr[bot] + dif*(ind-bot);
+        out[i] = val;
+    }
+    return out;
+}
+
+// return argmax of arr
+function arg_max(arr) {
+  var x = -1;
+  var top = -1;
+  for (var i = 0; i < arr.length; i++) {
+    if (arr[i] > top) {
+        top = arr[i];
+        x = i;
+    }
+  }
+  return x;
+}
+
+// render string onto page
+function render(str) {
+    document.getElementById("target").innerHTML = str;
+}
+
+function process(){
+    setInterval(async function(){
+
+    //get fft
+    var raw = new Uint8Array(analyser.frequencyBinCount);
+    analyser.getByteFrequencyData(raw);
+    var vol = Math.max(...raw)
+    if (vol < 200) {
+        render('-');
+    } else {
+    //nomalize fft data
+    var f_step = (FSAMP / 2.0) / raw.length
+    var max_ind = Math.floor(5000.0/f_step);
+    var data = new Float32Array(raw.slice(0, max_ind));
+    var d_min = Math.min(...data);
+    for (var i=0; i<data.length; i++) {
+        data[i] = data[i] - d_min;
+    }
+    var d_max = Math.max(...data);
+    for (var i=0; i<data.length; i++) {
+        data[i] = data[i] / d_max;
+    }
+    //resample fft data
+    var vector = downsize(data, 300);
+
+    canvas_ctx.clearRect(0,0,canvas.width,canvas.height);
+    for (var i = 0; i<canvas.width; i++) {
+        canvas_ctx.beginPath();
+        val = Math.floor(100*vector[i]);
+        canvas_ctx.moveTo(i,100);
+        canvas_ctx.lineTo(i,100-val);
+        canvas_ctx.stroke();
+    }
+
+    //input vector to model
+    (async () => {
+        var input = new onnx.Tensor(vector, "float32", [1, 300]);
+        var outputMap = await sess.run([input]);
+        var outputTensor = outputMap.values().next().value;
+        var predictions = outputTensor.data;
+        console.log(predictions);
+        var x = arg_max(predictions);
+        if (x==0) {
+            render('ee');
+        } else {
+            render('ih');
+        }
+    })();
+    }
+    },100);
+}
+
+loadingModelPromise.then(() => {
+    if (navigator.mediaDevices) {
+    console.log('getUserMedia supported.');
+    navigator.getUserMedia({audio: true}, function(stream){ //prompts user
+        audioCtx = new AudioContext();
+        microphone = audioCtx.createMediaStreamSource(stream);
+        analyser = audioCtx.createAnalyser();
+        analyser.fftSize = 2048*2;
+        microphone.connect(analyser);
+        FSAMP = audioCtx.sampleRate;
+        process();
+    }, function(){console.log('error')})};
+})
+</script>
+<div>Test of phoneme detector on browser...</div>
+<div id="target" style="font-size:100px; padding:40px;">null</div>
+</body>

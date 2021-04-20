@@ -9,6 +9,26 @@ const Container = styled.div`
   width: 100%;
   height: 100%;`
 
+const SoundBar = styled.div`
+  width: 100%;
+  height: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;`
+
+const Sound = styled.div`
+  width: 10%;
+  height: 100%;
+  cursor: pointer;
+  display:flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  &:hover {
+    color : orange;
+  }`
+
 const Contents = styled.div`
   width: 100%;
   height: 70%;
@@ -93,26 +113,6 @@ const Count = styled.div`
   font-size: 100%;
   font-weight: 550;
   user-select: none;`
-
-const SoundBar = styled.div`
-  width: 100%;
-  height: 40px;
-  display: flex;
-  flex-direction: row;
-  justify-content: flex-end;
-  align-items: center;`
-
-const Sound = styled.div`
-  width: 10%;
-  height: 100%;
-  cursor: pointer;
-  display:flex;
-  flex-direction: row;
-  justify-content: flex-end;
-  align-items: center;
-  &:hover {
-    color : orange;
-  }`
 
 var state = {
   init: true,
