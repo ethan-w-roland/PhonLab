@@ -1,4 +1,3 @@
-import styled from 'styled-components'
 import Generic from './Generic'
 
 const Home = () => {

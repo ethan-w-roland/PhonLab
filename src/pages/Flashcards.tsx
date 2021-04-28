@@ -2,7 +2,6 @@ import Generic from "./Generic"
 import Carousel from "./components/Carousel"
 import data from "./lesson_1.json"
 import styled from 'styled-components'
-import {useState} from 'react'
 
 //make this more generic so the Lessons page can
 //pass in which lesson it is via props
@@ -62,7 +61,7 @@ const Flashcards = () => {
       <Outer>
       <Container>
         <ChapterTitle>Lesson 1</ChapterTitle>
-        <ChapterDetails>A demonstration of flipcard mechanics</ChapterDetails>
+        <ChapterDetails>Getting started with Korean</ChapterDetails>
         <MyCarousel cards_info={data}/>
       </Container>
       </Outer>

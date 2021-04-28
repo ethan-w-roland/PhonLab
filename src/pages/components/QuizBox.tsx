@@ -125,7 +125,7 @@ const QuizBox = ({cards_info, className=null}:QuizBoxProps) => {
     for (var j=0; j < 4; j++){
       if (j !== cor_ind) {
         var rand = i
-        while (rand == i) {
+        while (rand === i) {
           rand = Math.floor(Math.random() * cards_info.length);
         }
         inds[j] = rand;
@@ -151,8 +151,6 @@ const QuizBox = ({cards_info, className=null}:QuizBoxProps) => {
     state.audio.currentTime = 0;
     state.audio.play();
   }
-
-  console.log(state)
 
   return (
     <div className={className}>

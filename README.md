@@ -23,5 +23,6 @@ Your app is ready to be deployed!
 
 ## DEPLOYMENT
 
+`npm install`
 `npm run build`
 `pm2 serve build 3000 --spa`

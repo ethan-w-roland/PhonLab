@@ -37,7 +37,7 @@ const Generic = (props:any) => {
   return (
     <Container>
       <Header>
-        <Logo href="/">Sejong Korean</Logo>
+        <Logo href="/">GT Korean</Logo>
       </Header>
       <Body>
         {props.children}
