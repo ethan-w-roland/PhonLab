@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import React, {useState, useEffect} from 'react';
+import React, {useState} from 'react';
 import Generic from './Generic';
 import {Tensor, InferenceSession} from "onnxjs";
 
@@ -42,17 +42,20 @@ var was_init = false;
 async function init() {
   await session.loadModel("models/i_ih.onnx");
   console.log("model loaded");
-  if (navigator.mediaDevices) {
-    console.log('getUserMedia supported.');
-    navigator.getUserMedia({audio: true}, function(stream){ //prompts user
-        audioCtx = new AudioContext();
-        microphone = audioCtx.createMediaStreamSource(stream);
-        analyser = audioCtx.createAnalyser();
-        analyser.fftSize = 2048*2;
-        microphone.connect(analyser);
-        FSAMP = audioCtx.sampleRate;
-        process();
-    }, function(){console.log('error')})};
+  navigator.mediaDevices.getUserMedia({audio: true}).then(function(stream){
+      var win:any = window;
+      var AudioContext = win.AudioContext || win.webkitAudioContext;
+      audioCtx = new AudioContext();
+      microphone = audioCtx.createMediaStreamSource(stream);
+      analyser = audioCtx.createAnalyser();
+      analyser.fftSize = 2048*2;
+      microphone.connect(analyser);
+      FSAMP = audioCtx.sampleRate;
+      process();
+  }).catch(function(error){
+    alert("microphone error");
+    alert(error)
+  });
 }
 
 var pred_set = null;
@@ -78,8 +81,8 @@ function process(){
         data[i] = data[i] - d_min;
     }
     var d_max = Math.max(...data);
-    for (var i=0; i<data.length; i++) {
-        data[i] = data[i] / d_max;
+    for (var j=0; j<data.length; j++) {
+        data[j] = data[j] / d_max;
     }
     //resample fft data
     var vector = downsize(data, 300);
@@ -91,7 +94,7 @@ function process(){
     var predictions = outputTensor.data;
     var x = arg_max(predictions);
     prob_set(predictions);
-    if (x==0) {
+    if (x===0) {
         pred_set("ee");
     } else {
         pred_set('ih');
@@ -140,7 +143,7 @@ const Phonology = () => {
     was_init = true;
   }
   var heights = [2,2];
-  if (pred != "-") {
+  if (pred !== "-") {
     heights = prob;
     var base = 1.35
     var sum = Math.pow(base, prob[0]) + Math.pow(base, prob[1])
