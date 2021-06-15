@@ -1,0 +1,32 @@
+[
+    {"model_name": "ee_ih.onnx",
+      "0":"i",
+      "1":"ɪ",
+      "desc":"/i/ vs. /ɪ/"
+    },
+    {"model_name": "eu_uh.onnx",
+      "0":"ʊ",
+      "1":"ʌ",
+      "desc":"/ʊ/ vs. /ʌ/"
+    },
+    {"model_name": "ae_eh.onnx",
+      "0":"æ",
+      "1":"ɛ",
+      "desc":"/æ/ vs. /ɛ/"
+    },
+    {"model_name": "eh_ih.onnx",
+      "0":"ɛ",
+      "1":"ɪ",
+      "desc":"/ɛ/ vs. /ɪ/"
+    },
+    {"model_name": "ah_uh.onnx",
+      "0":"ɑ",
+      "1":"ʌ",
+      "desc":"/ɑ/ vs. /ʌ/"
+    },
+    {"model_name": "eu_u.onnx",
+      "0":"ʊ",
+      "1":"u",
+      "desc":"/ʊ/ vs. /u/"
+    }
+]

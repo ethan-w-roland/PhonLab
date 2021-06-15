@@ -3,7 +3,9 @@ import styled, {keyframes, css} from 'styled-components';
 import ArrowBackIcon from '@material-ui/icons/ArrowBack';
 import ArrowForwardIcon from '@material-ui/icons/ArrowForward';
 import FlipCard from "./FlipCard";
+import GenderToggle from "./GenderToggle";
 import VolumeUpIcon from '@material-ui/icons/VolumeUp';
+
 
 const Container = styled.div`
   width: 100%;
@@ -15,16 +17,25 @@ const SoundBar = styled.div`
   display: flex;
   flex-direction: row;
   justify-content: flex-end;
-  align-items: center;`
+  align-items: center;
+  margin-bottom:3px;`
+
+const ToggleBox = styled.div`
+  width: 40px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;`
 
 const Sound = styled.div`
-  width: 10%;
+  width: 25px;
   height: 100%;
   cursor: pointer;
   display:flex;
   flex-direction: row;
   justify-content: flex-end;
   align-items: center;
+  -webkit-tap-highlight-color: transparent;
   &:hover {
     color : orange;
   }`
@@ -91,6 +102,7 @@ const Controls = styled.div`
   align-items: center;`
 
 const Arrow = styled.div`
+  -webkit-tap-highlight-color: transparent;
   display:flex;
   justify-content: center;
   align-items: center;
@@ -119,7 +131,9 @@ var state = {
   ind: 0,
   left: false,
   right: true,
-  audio: null,
+  m_audio: null,
+  f_audio: null,
+  is_male: false,
   anis: []
 }
 type CarouselProps = {cards_info : any, className?:any}
@@ -131,17 +145,20 @@ const Carousel = ({cards_info, className=null}:CarouselProps) => {
     set_cur(!cur);
   };
 
+  state.left = state.ind !== 0;
+  state.right = state.ind !== num_page-1;
+
   if (state.init) {
     for (var x = 0; x < num_page; x++) { state.anis.push('hide') }
     state.anis[0] = 'show';
     state.init = false;
-    state.audio = new Audio(cards_info[0].audio);
+    state.m_audio = new Audio(cards_info[0].m_audio);
+    state.f_audio = new Audio(cards_info[0].f_audio);
   }
 
   function update() {
-    state.left = state.ind !== 0;
-    state.right = state.ind !== num_page-1;
-    state.audio = new Audio(cards_info[state.ind].audio);
+    state.m_audio = new Audio(cards_info[state.ind].m_audio);
+    state.f_audio = new Audio(cards_info[state.ind].f_audio);
     render();
   }
 
@@ -165,9 +182,18 @@ const Carousel = ({cards_info, className=null}:CarouselProps) => {
       update();
   }}
 
-  const playAudio = () => {
-    state.audio.currentTime = 0;
-    state.audio.play();
+  const play_audio = () => {
+    if (state.is_male) {
+      state.m_audio.currentTime = 0;
+      state.m_audio.play();
+    } else {
+      state.f_audio.currentTime = 0;
+      state.f_audio.play();
+    }
+  }
+
+  const flip_gender = () => {
+    state.is_male = !(state.is_male);
   }
 
   //generate carousel items
@@ -183,7 +209,10 @@ const Carousel = ({cards_info, className=null}:CarouselProps) => {
   return (
     <Container className={className}>
       <SoundBar>
-        <Sound onClick={playAudio}>
+        <ToggleBox>
+          <GenderToggle callback={flip_gender}/>
+        </ToggleBox>
+        <Sound onClick={play_audio}>
           <VolumeUpIcon fontSize="small"/>
         </Sound>
       </SoundBar>

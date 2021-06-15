@@ -39,11 +39,13 @@ const Side = styled.div`
   box-shadow: 0 0 5px 0 rgba(0,0,0,0.3);
   border-radius: 1%;
   background-color: white;
-  color: black;`
+  color: black;
+  -webkit-tap-highlight-color: transparent;`
 
 const Front = styled(Side)`
   opacity: ${(props) => props.flip ? 0:1};
-  object-fit: contain;`
+  object-fit: contain;
+  user-select: none;`
 
 const Back = styled(Side)`
   opacity: ${(props) => props.flip ? 1:0};

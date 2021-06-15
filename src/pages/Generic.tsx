@@ -16,7 +16,8 @@ const Header = styled.div`
   display:flex;
   flex-direction: row;
   align-items:center;
-  justify-content: left;`
+  justify-content: left;
+  box-shadow: 0px 1px 3px 1px rgba(0,0,0,0.3);`
 
 const Logo = styled.a`
   margin-left:10px;

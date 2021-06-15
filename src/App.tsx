@@ -1,31 +1,26 @@
-import React from 'react';
-import Home from './pages/Home';
-import Phonology from './pages/Phonology';
-import Vocab from './pages/Vocab';
-import Flashcards from './pages/Flashcards';
-import Quiz from './pages/Quiz';
+import {Suspense, lazy} from 'react';
 import { BrowserRouter, Switch, Route } from "react-router-dom";
+import Generic from './pages/Generic';
+
+const Home = lazy(() => import('./pages/Home'))
+const Phonology = lazy(() => import('./pages/Phonology'))
+const Vocab = lazy(() => import('./pages/Vocab'))
+const Flashcards = lazy(() => import('./pages/Flashcards'))
+const Quiz = lazy(() => import('./pages/Quiz'))
+
 
 const App = () => {
   return (
     <BrowserRouter>
-      <Switch>
-        <Route path="/Phonology">
-          <Phonology/>
-        </Route>
-        <Route path="/Vocab">
-          <Vocab/>
-        </Route>
-        <Route path="/Quiz">
-          <Quiz/>
-        </Route>
-        <Route path="/Flashcards">
-          <Flashcards/>
-        </Route>
-        <Route path="/">
-          <Home/>
-        </Route>
-      </Switch>
+      <Suspense fallback={<Generic/>}>
+        <Switch>
+          <Route path="/Phonology"component={Phonology}/>
+          <Route path="/Vocab"component={Vocab}/>
+          <Route path="/Quiz" component={Quiz}/>
+          <Route path="/Flashcards" component={Flashcards}/>
+          <Route path="/" component={Home}/>
+        </Switch>
+      </Suspense>
     </BrowserRouter>
   );
 }

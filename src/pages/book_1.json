@@ -1,0 +1,1902 @@
+{
+ "7:v": [
+  {
+   "id": "0",
+   "vocab": "\uac00\uc838\uc624\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_1_001.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_1_001.mp3",
+   "image": "Images/vocab_1/GIF/1_1_001.gif"
+  },
+  {
+   "id": "5",
+   "vocab": "\ub208\uc774 \uc624\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_1_006.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_1_006.mp3",
+   "image": "Images/vocab_1/GIF/1_1_006.gif"
+  },
+  {
+   "id": "15",
+   "vocab": "\uc26c\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_1_016.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_1_016.mp3",
+   "image": "Images/vocab_1/Image/1_1_016.jpg"
+  },
+  {
+   "id": "26",
+   "vocab": "\uc88b\uc544\ud558\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_1_028.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_1_028.mp3",
+   "image": "Images/vocab_1/Image/1_1_028.jpg"
+  }
+ ],
+ "12:v": [
+  {
+   "id": "1",
+   "vocab": "\uacc4\uc18d",
+   "m_audio": "Audio/vocab_1/male_voice/1_1_002.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_1_002.mp3",
+   "image": "Images/vocab_1/GIF/1_1_002.gif"
+  },
+  {
+   "id": "14",
+   "vocab": "\uc0b4\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_1_015.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_1_015.mp3",
+   "image": "Images/vocab_1/GIF/1_1_015.gif"
+  },
+  {
+   "id": "18",
+   "vocab": "\uc5f4\uc2ec\ud788",
+   "m_audio": "Audio/vocab_1/male_voice/1_1_020.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_1_020.mp3",
+   "image": "Images/vocab_1/GIF/1_1_020.gif"
+  }
+ ],
+ "2:v": [
+  {
+   "id": "2",
+   "vocab": "\uacf5\ubd80\ud558\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_1_003.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_1_003.mp3",
+   "image": "Images/vocab_1/GIF/1_1_003.gif"
+  },
+  {
+   "id": "20",
+   "vocab": "\uc6b4\ub3d9\ud558\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_1_022.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_1_022.mp3",
+   "image": "Images/vocab_1/GIF/1_1_022.gif"
+  },
+  {
+   "id": "21",
+   "vocab": "\uc774\uc57c\uae30\ud558\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_1_023.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_1_023.mp3",
+   "image": "Images/vocab_1/GIF/1_1_023.gif"
+  },
+  {
+   "id": "22",
+   "vocab": "\uc77c\ud558\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_1_024.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_1_024.mp3",
+   "image": "Images/vocab_1/GIF/1_1_024.gif"
+  },
+  {
+   "id": "24",
+   "vocab": "\uc790\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_1_026.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_1_026.mp3",
+   "image": "Images/vocab_1/GIF/1_1_026.gif"
+  },
+  {
+   "id": "25",
+   "vocab": "\uc804\ud654\ud558\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_1_027.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_1_027.mp3",
+   "image": "Images/vocab_1/GIF/1_1_027.gif"
+  }
+ ],
+ "10:v": [
+  {
+   "id": "3",
+   "vocab": "\uad6c\uacbd\ud558\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_1_004.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_1_004.mp3",
+   "image": "Images/vocab_1/GIF/1_1_004.gif"
+  },
+  {
+   "id": "9",
+   "vocab": "\ub9ce\uc774",
+   "m_audio": "Audio/vocab_1/male_voice/1_1_010.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_1_010.mp3",
+   "image": "Images/vocab_1/GIF/1_1_010.gif"
+  },
+  {
+   "id": "19",
+   "vocab": "\uc65c",
+   "m_audio": "Audio/vocab_1/male_voice/1_1_021.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_1_021.mp3",
+   "image": "Images/vocab_1/Image/1_1_021.jpg"
+  }
+ ],
+ "9:v": [
+  {
+   "id": "4",
+   "vocab": "\ub180\ub7ec \uac00\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_1_005.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_1_005.mp3",
+   "image": "Images/vocab_1/GIF/1_1_005.gif"
+  }
+ ],
+ "6:v": [
+  {
+   "id": "6",
+   "vocab": "\ub4e3\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_1_007.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_1_007.mp3",
+   "image": "Images/vocab_1/GIF/1_1_007.gif"
+  },
+  {
+   "id": "7",
+   "vocab": "\ub9c8\uc2dc\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_1_008.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_1_008.mp3",
+   "image": "Images/vocab_1/GIF/1_1_008.gif"
+  },
+  {
+   "id": "8",
+   "vocab": "\ub9cc\ub098\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_1_009.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_1_009.mp3",
+   "image": "Images/vocab_1/GIF/1_1_009.gif"
+  },
+  {
+   "id": "10",
+   "vocab": "\uba39\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_1_011.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_1_011.mp3",
+   "image": "Images/vocab_1/GIF/1_1_011.gif"
+  },
+  {
+   "id": "12",
+   "vocab": "\ubcf4\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_1_013.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_1_013.mp3",
+   "image": "Images/vocab_1/GIF/1_1_013.gif"
+  }
+ ],
+ "11:v": [
+  {
+   "id": "11",
+   "vocab": "\ubc30\uc6b0\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_1_012.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_1_012.mp3",
+   "image": "Images/vocab_1/GIF/1_1_012.gif"
+  },
+  {
+   "id": "16",
+   "vocab": "\uc2dc\uc791\ud558\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_1_017.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_1_017.mp3",
+   "image": "Images/vocab_1/GIF/1_1_017.gif"
+  },
+  {
+   "id": "17",
+   "vocab": "\uc544\uc8fc",
+   "m_audio": "Audio/vocab_1/male_voice/1_1_018.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_1_018.mp3",
+   "image": "Images/vocab_1/Image/1_1_018.jpg"
+  }
+ ],
+ "4:v": [
+  {
+   "id": "13",
+   "vocab": "\uc0ac\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_1_014.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_1_014.mp3",
+   "image": "Images/vocab_1/GIF/1_1_014.gif"
+  },
+  {
+   "id": "23",
+   "vocab": "\uc77d\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_1_025.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_1_025.mp3",
+   "image": "Images/vocab_1/GIF/1_1_025.gif"
+  },
+  {
+   "id": "27",
+   "vocab": "\uc8fc\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_1_029.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_1_029.mp3",
+   "image": "Images/vocab_1/GIF/1_1_029.gif"
+  }
+ ],
+ "5:n": [
+  {
+   "id": "28",
+   "vocab": "\uac00\uac8c",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_001.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_001.mp3",
+   "image": "Images/vocab_1/Image/1_2_001.png"
+  },
+  {
+   "id": "33",
+   "vocab": "\uac1c",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_006.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_006.mp3",
+   "image": "Images/vocab_1/Image/1_2_006.png"
+  },
+  {
+   "id": "45",
+   "vocab": "\uad8c",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_018.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_018.mp3",
+   "image": "Images/vocab_1/Image/1_2_018.png"
+  },
+  {
+   "id": "53",
+   "vocab": "\ub137",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_026.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_026.mp3",
+   "image": "Images/vocab_1/Image/1_2_026.png"
+  },
+  {
+   "id": "56",
+   "vocab": "\ub2e4\uc12f",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_029.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_029.mp3",
+   "image": "Images/vocab_1/Image/1_2_029.png"
+  },
+  {
+   "id": "63",
+   "vocab": "\ub458",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_036.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_036.mp3",
+   "image": "Images/vocab_1/Image/1_2_036.png"
+  },
+  {
+   "id": "69",
+   "vocab": "\uba85",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_042.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_042.mp3",
+   "image": "Images/vocab_1/Image/1_2_042.png"
+  },
+  {
+   "id": "70",
+   "vocab": "\uba87",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_043.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_043.mp3",
+   "image": "Images/vocab_1/Image/1_2_043.png"
+  },
+  {
+   "id": "71",
+   "vocab": "\ubaa8\ub450",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_044.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_044.mp3",
+   "image": "Images/vocab_1/Image/1_2_044.jpg"
+  },
+  {
+   "id": "84",
+   "vocab": "\ubc18\uac11\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_057.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_057.mp3",
+   "image": "Images/vocab_1/Image/1_2_057.jpg"
+  },
+  {
+   "id": "91",
+   "vocab": "\ubcd1",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_064.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_064.mp3",
+   "image": "Images/vocab_1/Image/1_2_064.jpg"
+  },
+  {
+   "id": "106",
+   "vocab": "\uc14b",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_079.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_079.mp3",
+   "image": "Images/vocab_1/Image/1_2_079.png"
+  },
+  {
+   "id": "138",
+   "vocab": "\uc544\ud649",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_111.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_111.mp3",
+   "image": "Images/vocab_1/Image/1_2_111.png"
+  },
+  {
+   "id": "146",
+   "vocab": "\uc5bc\ub9c8\ub098",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_119.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_119.mp3",
+   "image": "Images/vocab_1/Image/1_2_119.png"
+  },
+  {
+   "id": "147",
+   "vocab": "\uc5ec\uae30",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_120.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_120.mp3",
+   "image": "Images/vocab_1/Image/1_2_120.png"
+  },
+  {
+   "id": "148",
+   "vocab": "\uc5ec\ub35f",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_121.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_121.mp3",
+   "image": "Images/vocab_1/Image/1_2_121.jpg"
+  },
+  {
+   "id": "150",
+   "vocab": "\uc5ec\uc12f",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_123.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_123.mp3",
+   "image": "Images/vocab_1/Image/1_2_123.jpg"
+  },
+  {
+   "id": "151",
+   "vocab": "\uc5f4",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_124.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_124.mp3",
+   "image": "Images/vocab_1/Image/1_2_124.jpg"
+  },
+  {
+   "id": "152",
+   "vocab": "\uc5f4\ud558\ub098",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_125.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_125.mp3",
+   "image": "Images/vocab_1/Image/1_2_125.jpg"
+  },
+  {
+   "id": "185",
+   "vocab": "\uc77c\uacf1",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_158.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_158.mp3",
+   "image": "Images/vocab_1/Image/1_2_158.png"
+  },
+  {
+   "id": "190",
+   "vocab": "\uc794",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_163.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_163.mp3",
+   "image": "Images/vocab_1/Image/1_2_163.png"
+  },
+  {
+   "id": "212",
+   "vocab": "\uce5c\uad6c",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_185.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_185.mp3",
+   "image": "Images/vocab_1/Image/1_2_185.jpg"
+  },
+  {
+   "id": "225",
+   "vocab": "\ud558\ub098",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_198.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_198.mp3",
+   "image": "Images/vocab_1/Image/1_2_198.png"
+  }
+ ],
+ "3:n": [
+  {
+   "id": "29",
+   "vocab": "\uac00\ubc29",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_002.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_002.mp3",
+   "image": "Images/vocab_1/Image/1_2_002.png"
+  },
+  {
+   "id": "42",
+   "vocab": "\uad50\uc2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_015.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_015.mp3",
+   "image": "Images/vocab_1/Image/1_2_015.jpg"
+  },
+  {
+   "id": "64",
+   "vocab": "\ub4a4",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_037.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_037.mp3",
+   "image": "Images/vocab_1/Image/1_2_037.jpg"
+  },
+  {
+   "id": "75",
+   "vocab": "\ubb34\uc5c7",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_048.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_048.mp3",
+   "image": "Images/vocab_1/Image/1_2_048.jpg"
+  },
+  {
+   "id": "79",
+   "vocab": "\ubc11",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_052.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_052.mp3",
+   "image": "Images/vocab_1/Image/1_2_052.jpg"
+  },
+  {
+   "id": "83",
+   "vocab": "\ubc16",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_056.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_056.mp3",
+   "image": "Images/vocab_1/Image/1_2_056.jpg"
+  },
+  {
+   "id": "86",
+   "vocab": "\ubc29",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_059.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_059.mp3",
+   "image": "Images/vocab_1/Image/1_2_059.jpg"
+  },
+  {
+   "id": "134",
+   "vocab": "\uc544\ub798",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_107.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_107.mp3",
+   "image": "Images/vocab_1/Image/1_2_107.png"
+  },
+  {
+   "id": "139",
+   "vocab": "\uc548",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_112.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_112.mp3",
+   "image": "Images/vocab_1/Image/1_2_112.png"
+  },
+  {
+   "id": "140",
+   "vocab": "\uc55e",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_113.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_113.mp3",
+   "image": "Images/vocab_1/Image/1_2_113.jpg"
+  },
+  {
+   "id": "155",
+   "vocab": "\uc606 ",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_128.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_128.mp3",
+   "image": "Images/vocab_1/Image/1_2_128.png"
+  },
+  {
+   "id": "168",
+   "vocab": "\uc704",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_141.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_141.mp3",
+   "image": "Images/vocab_1/Image/1_2_141.png"
+  },
+  {
+   "id": "175",
+   "vocab": "\uc758\uc790",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_148.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_148.mp3",
+   "image": "Images/vocab_1/Image/1_2_148.png"
+  },
+  {
+   "id": "206",
+   "vocab": "\ucc45",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_179.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_179.mp3",
+   "image": "Images/vocab_1/Image/1_2_179.png"
+  },
+  {
+   "id": "207",
+   "vocab": "\ucc45\uc0c1",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_180.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_180.mp3",
+   "image": "Images/vocab_1/Image/1_2_180.png"
+  },
+  {
+   "id": "216",
+   "vocab": "\uce68\ub300",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_189.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_189.mp3",
+   "image": "Images/vocab_1/Image/1_2_189.png"
+  },
+  {
+   "id": "224",
+   "vocab": "\ud39c",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_197.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_197.mp3",
+   "image": "Images/vocab_1/Image/1_2_197.png"
+  }
+ ],
+ "7:n": [
+  {
+   "id": "30",
+   "vocab": "\uac00\uc744",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_003.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_003.mp3",
+   "image": "Images/vocab_1/Image/1_2_003.png"
+  },
+  {
+   "id": "34",
+   "vocab": "\uaca8\uc6b8",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_007.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_007.mp3",
+   "image": "Images/vocab_1/Image/1_2_007.jpg"
+  },
+  {
+   "id": "60",
+   "vocab": "\ub365\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_033.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_033.mp3",
+   "image": "Images/vocab_1/Image/1_2_033.png"
+  },
+  {
+   "id": "62",
+   "vocab": "\ub450\uaebc\uc6b4 \uc637",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_035.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_035.mp3",
+   "image": "Images/vocab_1/Image/1_2_035.png"
+  },
+  {
+   "id": "65",
+   "vocab": "\ub530\ub73b\ud558\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_038.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_038.mp3",
+   "image": "Images/vocab_1/Image/1_2_038.jpg"
+  },
+  {
+   "id": "93",
+   "vocab": "\ubd04",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_066.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_066.mp3",
+   "image": "Images/vocab_1/Image/1_2_066.jpg"
+  },
+  {
+   "id": "113",
+   "vocab": "\uc2dc\uc6d0\ud558\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_086.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_086.mp3",
+   "image": "Images/vocab_1/Image/1_2_086.jpg"
+  },
+  {
+   "id": "145",
+   "vocab": "\uc5b8\uc81c",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_118.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_118.mp3",
+   "image": "Images/vocab_1/Image/1_2_118.png"
+  },
+  {
+   "id": "149",
+   "vocab": "\uc5ec\ub984",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_122.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_122.mp3",
+   "image": "Images/vocab_1/Image/1_2_122.png"
+  },
+  {
+   "id": "164",
+   "vocab": "\uc694\uc998",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_137.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_137.mp3",
+   "image": "Images/vocab_1/Image/1_2_137.jpg"
+  },
+  {
+   "id": "202",
+   "vocab": "\uc911\uad6d\uc5b4",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_175.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_175.mp3",
+   "image": "Images/vocab_1/Image/1_2_175.png"
+  },
+  {
+   "id": "209",
+   "vocab": "\ucda5\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_182.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_182.mp3",
+   "image": "Images/vocab_1/Image/1_2_182.jpg"
+  }
+ ],
+ "11:n": [
+  {
+   "id": "31",
+   "vocab": "\uac15\uc758\uc2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_004.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_004.mp3",
+   "image": "Images/vocab_1/Image/1_2_004.jpg"
+  },
+  {
+   "id": "54",
+   "vocab": "\ub178\ub798",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_027.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_027.mp3",
+   "image": "Images/vocab_1/Image/1_2_027.png"
+  },
+  {
+   "id": "67",
+   "vocab": "\ub9d0\ud558\uae30",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_040.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_040.mp3",
+   "image": "Images/vocab_1/Image/1_2_040.jpg"
+  },
+  {
+   "id": "111",
+   "vocab": "\uc27d\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_084.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_084.mp3",
+   "image": "Images/vocab_1/Image/1_2_084.jpg"
+  },
+  {
+   "id": "143",
+   "vocab": "\uc5b4\ub835\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_116.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_116.mp3",
+   "image": "Images/vocab_1/Image/1_2_116.jpg"
+  },
+  {
+   "id": "182",
+   "vocab": "\uc774\uc720",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_155.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_155.mp3",
+   "image": "Images/vocab_1/Image/1_2_155.png"
+  },
+  {
+   "id": "191",
+   "vocab": "\uc798\ud558\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_164.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_164.mp3",
+   "image": "Images/vocab_1/Image/1_2_164.jpg"
+  },
+  {
+   "id": "192",
+   "vocab": "\uc7ac\ubbf8\uc788\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_165.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_165.mp3",
+   "image": "Images/vocab_1/Image/1_2_165.png"
+  },
+  {
+   "id": "198",
+   "vocab": "\uc8fc",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_171.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_171.mp3",
+   "image": "Images/vocab_1/Image/1_2_171.jpg"
+  },
+  {
+   "id": "218",
+   "vocab": "\ucef4\ud4e8\ud130",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_191.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_191.mp3",
+   "image": "Images/vocab_1/Image/1_2_191.png"
+  },
+  {
+   "id": "228",
+   "vocab": "\ud55c \ub2ec",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_201.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_201.mp3",
+   "image": "Images/vocab_1/Image/1_2_201.png"
+  }
+ ],
+ "6:n": [
+  {
+   "id": "32",
+   "vocab": "\uac19\uc774",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_005.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_005.mp3",
+   "image": "Images/vocab_1/Image/1_2_005.jpg"
+  },
+  {
+   "id": "48",
+   "vocab": "\uadf9\uc7a5",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_021.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_021.mp3",
+   "image": "Images/vocab_1/Image/1_2_021.jpg"
+  },
+  {
+   "id": "61",
+   "vocab": "\ub3c4\uc11c\uad00",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_034.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_034.mp3",
+   "image": "Images/vocab_1/Image/1_2_034.png"
+  },
+  {
+   "id": "85",
+   "vocab": "\ubc25",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_058.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_058.mp3",
+   "image": "Images/vocab_1/Image/1_2_058.jpg"
+  },
+  {
+   "id": "89",
+   "vocab": "\ubc31\ud654\uc810",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_062.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_062.mp3",
+   "image": "Images/vocab_1/Image/1_2_062.jpg"
+  },
+  {
+   "id": "144",
+   "vocab": "\uc5b4\uc81c",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_117.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_117.mp3",
+   "image": "Images/vocab_1/Image/1_2_117.jpg"
+  },
+  {
+   "id": "154",
+   "vocab": "\uc601\ud654",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_127.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_127.mp3",
+   "image": "Images/vocab_1/Image/1_2_127.jpg"
+  },
+  {
+   "id": "165",
+   "vocab": "\uc6b0\ub9ac",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_138.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_138.mp3",
+   "image": "Images/vocab_1/Image/1_2_138.jpg"
+  },
+  {
+   "id": "173",
+   "vocab": "\uc74c\uc545",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_146.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_146.mp3",
+   "image": "Images/vocab_1/Image/1_2_146.png"
+  },
+  {
+   "id": "217",
+   "vocab": "\ucee4\ud53c\uc20d",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_190.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_190.mp3",
+   "image": "Images/vocab_1/Image/1_2_190.png"
+  },
+  {
+   "id": "220",
+   "vocab": "\ud154\ub808\ube44\uc804",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_193.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_193.mp3",
+   "image": "Images/vocab_1/Image/1_2_193.jpg"
+  }
+ ],
+ "12:n": [
+  {
+   "id": "35",
+   "vocab": "\uacb0\ud63c",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_008.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_008.mp3",
+   "image": "Images/vocab_1/Image/1_2_008.png"
+  },
+  {
+   "id": "37",
+   "vocab": "\uacc4\ud68d",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_010.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_010.mp3",
+   "image": "Images/vocab_1/Image/1_2_010.jpg"
+  },
+  {
+   "id": "50",
+   "vocab": "\ub0b4\ub144",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_023.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_023.mp3",
+   "image": "Images/vocab_1/Image/1_2_023.png"
+  },
+  {
+   "id": "57",
+   "vocab": "\ub2e4\uc74c \ub2ec",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_030.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_030.mp3",
+   "image": "Images/vocab_1/Image/1_2_030.png"
+  },
+  {
+   "id": "58",
+   "vocab": "\ub300\ud559\uad50",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_031.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_031.mp3",
+   "image": "Images/vocab_1/Image/1_2_031.png"
+  },
+  {
+   "id": "59",
+   "vocab": "\ub300\ud559\uc6d0",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_032.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_032.mp3",
+   "image": "Images/vocab_1/Image/1_2_032.png"
+  },
+  {
+   "id": "87",
+   "vocab": "\ubc29\ud559",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_060.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_060.mp3",
+   "image": "Images/vocab_1/Image/1_2_060.jpg"
+  },
+  {
+   "id": "135",
+   "vocab": "\uc544\ub974\ubc14\uc774\ud2b8",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_108.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_108.mp3",
+   "image": "Images/vocab_1/Image/1_2_108.jpg"
+  },
+  {
+   "id": "142",
+   "vocab": "\uc5b4\ub5a4",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_115.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_115.mp3",
+   "image": "Images/vocab_1/Image/1_2_115.png"
+  },
+  {
+   "id": "162",
+   "vocab": "\uc62c\ud574",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_135.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_135.mp3",
+   "image": "Images/vocab_1/Image/1_2_135.jpg"
+  },
+  {
+   "id": "163",
+   "vocab": "\uc694\ub9ac",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_136.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_136.mp3",
+   "image": "Images/vocab_1/Image/1_2_136.jpg"
+  },
+  {
+   "id": "170",
+   "vocab": "\uc720\ud559",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_143.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_143.mp3",
+   "image": "Images/vocab_1/Image/1_2_143.png"
+  },
+  {
+   "id": "197",
+   "vocab": "\uc878\uc5c5",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_170.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_170.mp3",
+   "image": "Images/vocab_1/Image/1_2_170.jpg"
+  },
+  {
+   "id": "210",
+   "vocab": "\ucde8\uc9c1",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_183.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_183.mp3",
+   "image": "Images/vocab_1/Image/1_2_183.png"
+  },
+  {
+   "id": "235",
+   "vocab": "\ud734\uac00",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_208.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_208.mp3",
+   "image": "Images/vocab_1/Image/1_2_208.png"
+  }
+ ],
+ "1:n": [
+  {
+   "id": "36",
+   "vocab": "\uacbd\ucc30",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_009.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_009.mp3",
+   "image": "Images/vocab_1/Image/1_2_009.jpg"
+  },
+  {
+   "id": "39",
+   "vocab": "\uacf5\ubb34\uc6d0",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_012.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_012.mp3",
+   "image": "Images/vocab_1/Image/1_2_012.png"
+  },
+  {
+   "id": "52",
+   "vocab": "\ub124",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_025.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_025.mp3",
+   "image": "Images/vocab_1/Image/1_2_025.jpg"
+  },
+  {
+   "id": "73",
+   "vocab": "\ubabd\uace8 \uc0ac\ub78c",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_046.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_046.mp3",
+   "image": "Images/vocab_1/Image/1_2_046.jpg"
+  },
+  {
+   "id": "90",
+   "vocab": "\ubca0\ud2b8\ub0a8 \uc0ac\ub78c",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_063.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_063.mp3",
+   "image": "Images/vocab_1/Image/1_2_063.jpg"
+  },
+  {
+   "id": "105",
+   "vocab": "\uc120\uc0dd\ub2d8",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_078.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_078.mp3",
+   "image": "Images/vocab_1/Image/1_2_078.jpg"
+  },
+  {
+   "id": "132",
+   "vocab": "\uc528",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_105.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_105.mp3",
+   "image": "Images/vocab_1/Image/1_2_105.jpg"
+  },
+  {
+   "id": "133",
+   "vocab": "\uc544\ub2c8\uc694",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_106.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_106.mp3",
+   "image": "Images/vocab_1/Image/1_2_106.jpg"
+  },
+  {
+   "id": "174",
+   "vocab": "\uc758\uc0ac",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_147.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_147.mp3",
+   "image": "Images/vocab_1/Image/1_2_147.png"
+  },
+  {
+   "id": "177",
+   "vocab": "\uc774\ub984",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_150.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_150.mp3",
+   "image": "Images/vocab_1/Image/1_2_150.jpg"
+  },
+  {
+   "id": "186",
+   "vocab": "\uc77c\ubcf8 \uc0ac\ub78c",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_159.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_159.mp3",
+   "image": "Images/vocab_1/Image/1_2_159.jpg"
+  },
+  {
+   "id": "193",
+   "vocab": "\uc800",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_166.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_166.mp3",
+   "image": "Images/vocab_1/Image/1_2_166.png"
+  },
+  {
+   "id": "201",
+   "vocab": "\uc911\uad6d \uc0ac\ub78c",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_174.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_174.mp3",
+   "image": "Images/vocab_1/Image/1_2_174.jpg"
+  },
+  {
+   "id": "219",
+   "vocab": "\ud0dc\uad6d \uc0ac\ub78c",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_192.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_192.mp3",
+   "image": "Images/vocab_1/Image/1_2_192.jpg"
+  },
+  {
+   "id": "227",
+   "vocab": "\ud559\uc0dd",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_200.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_200.mp3",
+   "image": "Images/vocab_1/Image/1_2_200.png"
+  },
+  {
+   "id": "229",
+   "vocab": "\ud55c\uad6d \uc0ac\ub78c",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_202.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_202.mp3",
+   "image": "Images/vocab_1/Image/1_2_202.png"
+  },
+  {
+   "id": "233",
+   "vocab": "\ud68c\uc0ac\uc6d0",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_206.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_206.mp3",
+   "image": "Images/vocab_1/Image/1_2_206.jpg"
+  }
+ ],
+ "10:n": [
+  {
+   "id": "38",
+   "vocab": "\uace0\uad81",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_011.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_011.mp3",
+   "image": "Images/vocab_1/Image/1_2_011.jpg"
+  },
+  {
+   "id": "47",
+   "vocab": "\uadf8\ub9bc",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_020.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_020.mp3",
+   "image": "Images/vocab_1/Image/1_2_020.jpg"
+  },
+  {
+   "id": "77",
+   "vocab": "\ubbf8\uc220\uad00",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_050.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_050.mp3",
+   "image": "Images/vocab_1/Image/1_2_050.jpg"
+  },
+  {
+   "id": "80",
+   "vocab": "\ubc14\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_053.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_053.mp3",
+   "image": "Images/vocab_1/Image/1_2_053.jpg"
+  },
+  {
+   "id": "82",
+   "vocab": "\ubc15\ubb3c\uad00",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_055.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_055.mp3",
+   "image": "Images/vocab_1/Image/1_2_055.jpg"
+  },
+  {
+   "id": "92",
+   "vocab": "\ubcd1\uc6d0",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_065.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_065.mp3",
+   "image": "Images/vocab_1/Image/1_2_065.jpg"
+  },
+  {
+   "id": "99",
+   "vocab": "\uc0b0",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_072.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_072.mp3",
+   "image": "Images/vocab_1/Image/1_2_072.jpg"
+  },
+  {
+   "id": "108",
+   "vocab": "\uc218\uc601",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_081.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_081.mp3",
+   "image": "Images/vocab_1/Image/1_2_081.jpg"
+  },
+  {
+   "id": "109",
+   "vocab": "\uc218\uc601\uc7a5",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_082.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_082.mp3",
+   "image": "Images/vocab_1/Image/1_2_082.jpg"
+  },
+  {
+   "id": "137",
+   "vocab": "\uc544\ud504\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_110.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_110.mp3",
+   "image": "Images/vocab_1/Image/1_2_110.png"
+  },
+  {
+   "id": "178",
+   "vocab": "\uc774\ubc88 \uc8fc\ub9d0",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_151.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_151.mp3",
+   "image": "Images/vocab_1/Image/1_2_151.png"
+  },
+  {
+   "id": "199",
+   "vocab": "\uc8fc\ub9d0",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_172.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_172.mp3",
+   "image": "Images/vocab_1/Image/1_2_172.jpg"
+  },
+  {
+   "id": "204",
+   "vocab": "\uc9c0\ub09c \uc8fc\ub9d0",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_177.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_177.mp3",
+   "image": "Images/vocab_1/Image/1_2_177.png"
+  }
+ ],
+ "2:n": [
+  {
+   "id": "40",
+   "vocab": "\uacf5\uc6d0",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_013.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_013.mp3",
+   "image": "Images/vocab_1/Image/1_2_013.png"
+  },
+  {
+   "id": "115",
+   "vocab": "\uc2dc\uc7a5",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_088.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_088.mp3",
+   "image": "Images/vocab_1/Image/1_2_088.jpg"
+  },
+  {
+   "id": "117",
+   "vocab": "\uc2dd\ub2f9",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_090.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_090.mp3",
+   "image": "Images/vocab_1/Image/1_2_090.jpg"
+  },
+  {
+   "id": "141",
+   "vocab": "\uc5b4\ub514",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_114.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_114.mp3",
+   "image": "Images/vocab_1/Image/1_2_114.jpg"
+  },
+  {
+   "id": "157",
+   "vocab": "\uc624\ub298",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_130.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_130.mp3",
+   "image": "Images/vocab_1/Image/1_2_130.png"
+  },
+  {
+   "id": "203",
+   "vocab": "\uc9c0\uae08",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_176.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_176.mp3",
+   "image": "Images/vocab_1/Image/1_2_176.jpg"
+  },
+  {
+   "id": "205",
+   "vocab": "\uc9d1",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_178.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_178.mp3",
+   "image": "Images/vocab_1/Image/1_2_178.png"
+  },
+  {
+   "id": "226",
+   "vocab": "\ud559\uad50",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_199.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_199.mp3",
+   "image": "Images/vocab_1/Image/1_2_199.png"
+  },
+  {
+   "id": "232",
+   "vocab": "\ud68c\uc0ac",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_205.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_205.mp3",
+   "image": "Images/vocab_1/Image/1_2_205.png"
+  }
+ ],
+ "9:n": [
+  {
+   "id": "41",
+   "vocab": "\uad1c\ucc2e\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_014.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_014.mp3",
+   "image": "Images/vocab_1/Image/1_2_014.jpg"
+  },
+  {
+   "id": "46",
+   "vocab": "\uadf8\ub7ec\uba74",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_019.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_019.mp3",
+   "image": "Images/vocab_1/Image/1_2_019.png"
+  },
+  {
+   "id": "55",
+   "vocab": "\ub178\ub798\ubc29",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_028.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_028.mp3",
+   "image": "Images/vocab_1/Image/1_2_028.jpg"
+  },
+  {
+   "id": "78",
+   "vocab": "\ubbf8\uc548\ud558\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_051.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_051.mp3",
+   "image": "Images/vocab_1/Image/1_2_051.jpg"
+  },
+  {
+   "id": "81",
+   "vocab": "\ubc14\uc058\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_054.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_054.mp3",
+   "image": "Images/vocab_1/Image/1_2_054.jpg"
+  },
+  {
+   "id": "94",
+   "vocab": "\ubd88\uace0\uae30",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_067.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_067.mp3",
+   "image": "Images/vocab_1/Image/1_2_067.jpg"
+  },
+  {
+   "id": "112",
+   "vocab": "\uc2dc\ub0b4",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_085.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_085.mp3",
+   "image": "Images/vocab_1/Image/1_2_085.jpg"
+  },
+  {
+   "id": "196",
+   "vocab": "\uc815\ub9d0",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_169.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_169.mp3",
+   "image": "Images/vocab_1/Image/1_2_169.jpg"
+  },
+  {
+   "id": "211",
+   "vocab": "\uce35",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_184.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_184.mp3",
+   "image": "Images/vocab_1/Image/1_2_184.png"
+  }
+ ],
+ "4:n": [
+  {
+   "id": "43",
+   "vocab": "\uad6c",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_016.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_016.mp3",
+   "image": "Images/vocab_1/Image/1_2_016.jpg"
+  },
+  {
+   "id": "66",
+   "vocab": "\ub9cc",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_039.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_039.mp3",
+   "image": "Images/vocab_1/Image/1_2_039.jpg"
+  },
+  {
+   "id": "76",
+   "vocab": "\ubb3c",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_049.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_049.mp3",
+   "image": "Images/vocab_1/Image/1_2_049.jpg"
+  },
+  {
+   "id": "88",
+   "vocab": "\ubc31",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_061.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_061.mp3",
+   "image": "Images/vocab_1/Image/1_2_061.jpg"
+  },
+  {
+   "id": "95",
+   "vocab": "\ube75",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_068.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_068.mp3",
+   "image": "Images/vocab_1/Image/1_2_068.jpg"
+  },
+  {
+   "id": "96",
+   "vocab": "\uc0ac",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_069.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_069.mp3",
+   "image": "Images/vocab_1/Image/1_2_069.jpg"
+  },
+  {
+   "id": "97",
+   "vocab": "\uc0ac\uacfc",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_070.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_070.mp3",
+   "image": "Images/vocab_1/Image/1_2_070.jpg"
+  },
+  {
+   "id": "100",
+   "vocab": "\uc0bc",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_073.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_073.mp3",
+   "image": "Images/vocab_1/Image/1_2_073.png"
+  },
+  {
+   "id": "118",
+   "vocab": "\uc2ed",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_091.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_091.mp3",
+   "image": "Images/vocab_1/Image/1_2_091.jpg"
+  },
+  {
+   "id": "119",
+   "vocab": "\uc2ed\uad6c",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_092.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_092.mp3",
+   "image": "Images/vocab_1/Image/1_2_092.jpg"
+  },
+  {
+   "id": "120",
+   "vocab": "\uc2ed\uc0ac",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_093.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_093.mp3",
+   "image": "Images/vocab_1/Image/1_2_093.jpg"
+  },
+  {
+   "id": "121",
+   "vocab": "\uc2ed\uc0bc",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_094.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_094.mp3",
+   "image": "Images/vocab_1/Image/1_2_094.jpg"
+  },
+  {
+   "id": "122",
+   "vocab": "\uc2ed\uc624",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_095.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_095.mp3",
+   "image": "Images/vocab_1/Image/1_2_095.jpg"
+  },
+  {
+   "id": "123",
+   "vocab": "\uc2ed\uc721",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_096.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_096.mp3",
+   "image": "Images/vocab_1/Image/1_2_096.jpg"
+  },
+  {
+   "id": "124",
+   "vocab": "\uc2ed\uc774",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_097.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_097.mp3",
+   "image": "Images/vocab_1/Image/1_2_097.jpg"
+  },
+  {
+   "id": "126",
+   "vocab": "\uc2ed\uc77c",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_099.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_099.mp3",
+   "image": "Images/vocab_1/Image/1_2_099.jpg"
+  },
+  {
+   "id": "129",
+   "vocab": "\uc2ed\uce60",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_102.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_102.mp3",
+   "image": "Images/vocab_1/Image/1_2_102.png"
+  },
+  {
+   "id": "130",
+   "vocab": "\uc2ed\ud314",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_103.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_103.mp3",
+   "image": "Images/vocab_1/Image/1_2_103.png"
+  },
+  {
+   "id": "131",
+   "vocab": "\uc2f8\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_104.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_104.mp3",
+   "image": "Images/vocab_1/Image/1_2_104.jpg"
+  },
+  {
+   "id": "153",
+   "vocab": "\uc601",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_126.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_126.mp3",
+   "image": "Images/vocab_1/Image/1_2_126.jpg"
+  },
+  {
+   "id": "156",
+   "vocab": "\uc624",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_129.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_129.mp3",
+   "image": "Images/vocab_1/Image/1_2_129.png"
+  },
+  {
+   "id": "158",
+   "vocab": "\uc624\ub80c\uc9c0",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_131.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_131.mp3",
+   "image": "Images/vocab_1/Image/1_2_131.jpg"
+  },
+  {
+   "id": "166",
+   "vocab": "\uc6b0\uc720",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_139.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_139.mp3",
+   "image": "Images/vocab_1/Image/1_2_139.jpg"
+  },
+  {
+   "id": "171",
+   "vocab": "\uc721",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_144.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_144.mp3",
+   "image": "Images/vocab_1/Image/1_2_144.png"
+  },
+  {
+   "id": "176",
+   "vocab": "\uc774",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_149.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_149.mp3",
+   "image": "Images/vocab_1/Image/1_2_149.png"
+  },
+  {
+   "id": "179",
+   "vocab": "\uc774\uc2ed",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_152.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_152.mp3",
+   "image": "Images/vocab_1/Image/1_2_152.jpg"
+  },
+  {
+   "id": "184",
+   "vocab": "\uc77c",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_157.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_157.mp3",
+   "image": "Images/vocab_1/Image/1_2_157.png"
+  },
+  {
+   "id": "200",
+   "vocab": "\uc8fc\uc2a4",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_173.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_173.mp3",
+   "image": "Images/vocab_1/Image/1_2_173.jpg"
+  },
+  {
+   "id": "208",
+   "vocab": "\ucc9c",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_181.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_181.mp3",
+   "image": "Images/vocab_1/Image/1_2_181.jpg"
+  },
+  {
+   "id": "213",
+   "vocab": "\uce60",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_186.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_186.mp3",
+   "image": "Images/vocab_1/Image/1_2_186.png"
+  },
+  {
+   "id": "222",
+   "vocab": "\ud314",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_195.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_195.mp3",
+   "image": "Images/vocab_1/Image/1_2_195.png"
+  },
+  {
+   "id": "230",
+   "vocab": "\ud55c\uad6d\uc5b4",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_203.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_203.mp3",
+   "image": "Images/vocab_1/Image/1_2_203.png"
+  }
+ ],
+ "8:n": [
+  {
+   "id": "44",
+   "vocab": "\uad6c\uc6d4",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_017.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_017.mp3",
+   "image": "Images/vocab_1/Image/1_2_017.jpg"
+  },
+  {
+   "id": "49",
+   "vocab": "\uae08\uc694\uc77c",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_022.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_022.mp3",
+   "image": "Images/vocab_1/Image/1_2_022.jpg"
+  },
+  {
+   "id": "51",
+   "vocab": "\ub0b4\uc77c",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_024.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_024.mp3",
+   "image": "Images/vocab_1/Image/1_2_024.png"
+  },
+  {
+   "id": "68",
+   "vocab": "\uba70\uce60",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_041.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_041.mp3",
+   "image": "Images/vocab_1/Image/1_2_041.png"
+  },
+  {
+   "id": "72",
+   "vocab": "\ubaa9\uc694\uc77c",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_045.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_045.mp3",
+   "image": "Images/vocab_1/Image/1_2_045.png"
+  },
+  {
+   "id": "74",
+   "vocab": "\ubb34\uc2a8 \uc694\uc77c",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_047.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_047.mp3",
+   "image": "Images/vocab_1/Image/1_2_047.png"
+  },
+  {
+   "id": "98",
+   "vocab": "\uc0ac\uc6d4",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_071.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_071.mp3",
+   "image": "Images/vocab_1/Image/1_2_071.jpg"
+  },
+  {
+   "id": "101",
+   "vocab": "\uc0bc\uc2ed\uc77c",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_074.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_074.mp3",
+   "image": "Images/vocab_1/Image/1_2_074.jpg"
+  },
+  {
+   "id": "102",
+   "vocab": "\uc0bc\uc2ed\uc77c\uc77c",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_075.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_075.mp3",
+   "image": "Images/vocab_1/Image/1_2_075.jpg"
+  },
+  {
+   "id": "103",
+   "vocab": "\uc0bc\uc6d4",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_076.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_076.mp3",
+   "image": "Images/vocab_1/Image/1_2_076.jpg"
+  },
+  {
+   "id": "104",
+   "vocab": "\uc0bc\uc77c",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_077.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_077.mp3",
+   "image": "Images/vocab_1/Image/1_2_077.png"
+  },
+  {
+   "id": "107",
+   "vocab": "\uc218\uc5c5",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_080.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_080.mp3",
+   "image": "Images/vocab_1/Image/1_2_080.jpg"
+  },
+  {
+   "id": "110",
+   "vocab": "\uc218\uc694\uc77c",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_083.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_083.mp3",
+   "image": "Images/vocab_1/Image/1_2_083.png"
+  },
+  {
+   "id": "114",
+   "vocab": "\uc2dc\uc6d4",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_087.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_087.mp3",
+   "image": "Images/vocab_1/Image/1_2_087.jpg"
+  },
+  {
+   "id": "116",
+   "vocab": "\uc2dc\ud5d8",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_089.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_089.mp3",
+   "image": "Images/vocab_1/Image/1_2_089.jpg"
+  },
+  {
+   "id": "125",
+   "vocab": "\uc2ed\uc774\uc6d4",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_098.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_098.mp3",
+   "image": "Images/vocab_1/Image/1_2_098.jpg"
+  },
+  {
+   "id": "127",
+   "vocab": "\uc2ed\uc77c\uc6d4",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_100.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_100.mp3",
+   "image": "Images/vocab_1/Image/1_2_100.jpg"
+  },
+  {
+   "id": "128",
+   "vocab": "\uc2ed\uc77c\uc77c",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_101.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_101.mp3",
+   "image": "Images/vocab_1/Image/1_2_101.png"
+  },
+  {
+   "id": "136",
+   "vocab": "\uc544\uce68",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_109.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_109.mp3",
+   "image": "Images/vocab_1/Image/1_2_109.png"
+  },
+  {
+   "id": "159",
+   "vocab": "\uc624\uc6d4",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_132.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_132.mp3",
+   "image": "Images/vocab_1/Image/1_2_132.png"
+  },
+  {
+   "id": "160",
+   "vocab": "\uc624\uc804",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_133.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_133.mp3",
+   "image": "Images/vocab_1/Image/1_2_133.png"
+  },
+  {
+   "id": "161",
+   "vocab": "\uc624\ud6c4",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_134.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_134.mp3",
+   "image": "Images/vocab_1/Image/1_2_134.png"
+  },
+  {
+   "id": "167",
+   "vocab": "\uc6d4\uc694\uc77c",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_140.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_140.mp3",
+   "image": "Images/vocab_1/Image/1_2_140.png"
+  },
+  {
+   "id": "169",
+   "vocab": "\uc720\uc6d4",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_142.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_142.mp3",
+   "image": "Images/vocab_1/Image/1_2_142.png"
+  },
+  {
+   "id": "172",
+   "vocab": "\uc721\uc77c",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_145.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_145.mp3",
+   "image": "Images/vocab_1/Image/1_2_145.png"
+  },
+  {
+   "id": "180",
+   "vocab": "\uc774\uc2ed\uad6c\uc77c",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_153.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_153.mp3",
+   "image": "Images/vocab_1/Image/1_2_153.png"
+  },
+  {
+   "id": "181",
+   "vocab": "\uc774\uc6d4",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_154.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_154.mp3",
+   "image": "Images/vocab_1/Image/1_2_154.jpg"
+  },
+  {
+   "id": "183",
+   "vocab": "\uc774\uc77c",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_156.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_156.mp3",
+   "image": "Images/vocab_1/Image/1_2_156.jpg"
+  },
+  {
+   "id": "187",
+   "vocab": "\uc77c\uc694\uc77c",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_160.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_160.mp3",
+   "image": "Images/vocab_1/Image/1_2_160.png"
+  },
+  {
+   "id": "188",
+   "vocab": "\uc77c\uc6d4",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_161.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_161.mp3",
+   "image": "Images/vocab_1/Image/1_2_161.png"
+  },
+  {
+   "id": "189",
+   "vocab": "\uc77c\uc77c",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_162.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_162.mp3",
+   "image": "Images/vocab_1/Image/1_2_162.png"
+  },
+  {
+   "id": "194",
+   "vocab": "\uc800\ub141",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_167.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_167.mp3",
+   "image": "Images/vocab_1/Image/1_2_167.jpg"
+  },
+  {
+   "id": "195",
+   "vocab": "\uc810\uc2ec",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_168.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_168.mp3",
+   "image": "Images/vocab_1/Image/1_2_168.jpg"
+  },
+  {
+   "id": "214",
+   "vocab": "\uce60\uc6d4",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_187.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_187.mp3",
+   "image": "Images/vocab_1/Image/1_2_187.jpg"
+  },
+  {
+   "id": "215",
+   "vocab": "\uce60\uc77c",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_188.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_188.mp3",
+   "image": "Images/vocab_1/Image/1_2_188.png"
+  },
+  {
+   "id": "221",
+   "vocab": "\ud1a0\uc694\uc77c",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_194.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_194.mp3",
+   "image": "Images/vocab_1/Image/1_2_194.jpg"
+  },
+  {
+   "id": "223",
+   "vocab": "\ud314\uc6d4",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_196.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_196.mp3",
+   "image": "Images/vocab_1/Image/1_2_196.jpg"
+  },
+  {
+   "id": "231",
+   "vocab": "\ud654\uc694\uc77c",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_204.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_204.mp3",
+   "image": "Images/vocab_1/Image/1_2_204.png"
+  },
+  {
+   "id": "234",
+   "vocab": "\ud68c\uc758",
+   "m_audio": "Audio/vocab_1/male_voice/1_2_207.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_2_207.mp3",
+   "image": "Images/vocab_1/Image/1_2_207.jpg"
+  }
+ ],
+ "7:s": [
+  {
+   "id": "236",
+   "vocab": "\ub0a0\uc528\uac00 \ub098\uc058\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_3_001.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_3_001.mp3",
+   "image": "Images/vocab_1/Image/1_3_001.jpg"
+  },
+  {
+   "id": "237",
+   "vocab": "\ub0a0\uc528\uac00 \uc5b4\ub54c\uc694?",
+   "m_audio": "Audio/vocab_1/male_voice/1_3_002.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_3_002.mp3",
+   "image": "Images/vocab_1/Image/1_3_002.png"
+  },
+  {
+   "id": "238",
+   "vocab": "\ub0a0\uc528\uac00 \uc88b\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_3_003.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_3_003.mp3",
+   "image": "Images/vocab_1/Image/1_3_003.jpg"
+  },
+  {
+   "id": "243",
+   "vocab": "\ube44\uac00 \uc624\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_3_008.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_3_008.mp3",
+   "image": "Images/vocab_1/GIF/1_3_008.gif"
+  }
+ ],
+ "9:s": [
+  {
+   "id": "239",
+   "vocab": "\ub0a8\uc790 \uce5c\uad6c\ub97c \ub9cc\ub098\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_3_004.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_3_004.mp3",
+   "image": "Images/vocab_1/GIF/1_3_004.gif"
+  },
+  {
+   "id": "245",
+   "vocab": "\uc1fc\ud551\uc744 \ud558\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_3_010.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_3_010.mp3",
+   "image": "Images/vocab_1/GIF/1_3_010.gif"
+  },
+  {
+   "id": "246",
+   "vocab": "\uc2dc\uac04\uc774 \uc5c6\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_3_011.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_3_011.mp3",
+   "image": "Images/vocab_1/Image/1_3_011.png"
+  },
+  {
+   "id": "247",
+   "vocab": "\uc2dc\uac04\uc774 \uc788\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_3_012.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_3_012.mp3",
+   "image": "Images/vocab_1/Image/1_3_012.png"
+  },
+  {
+   "id": "248",
+   "vocab": "\uc57d\uc18d\uc744 \ud558\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_3_013.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_3_013.mp3",
+   "image": "Images/vocab_1/GIF/1_3_013.gif"
+  },
+  {
+   "id": "249",
+   "vocab": "\uc57d\uc18d\uc774 \uc5c6\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_3_014.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_3_014.mp3",
+   "image": "Images/vocab_1/Image/1_3_014.png"
+  },
+  {
+   "id": "250",
+   "vocab": "\uc57d\uc18d\uc774 \uc788\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_3_015.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_3_015.mp3",
+   "image": "Images/vocab_1/Image/1_3_015.jpg"
+  },
+  {
+   "id": "252",
+   "vocab": "\uc5ec\uc790 \uce5c\uad6c\ub97c \ub9cc\ub098\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_3_017.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_3_017.mp3",
+   "image": "Images/vocab_1/GIF/1_3_017.gif"
+  },
+  {
+   "id": "255",
+   "vocab": "\uc601\ud654\ub97c \ubcf4\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_3_020.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_3_020.mp3",
+   "image": "Images/vocab_1/GIF/1_3_020.gif"
+  },
+  {
+   "id": "256",
+   "vocab": "\uc77c\uc774 \uc788\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_3_021.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_3_021.mp3",
+   "image": "Images/vocab_1/Image/1_3_021.jpg"
+  },
+  {
+   "id": "257",
+   "vocab": "\uc800\ub141\uc744 \uba39\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_3_022.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_3_022.mp3",
+   "image": "Images/vocab_1/GIF/1_3_022.gif"
+  },
+  {
+   "id": "258",
+   "vocab": "\uc810\uc2ec\uc744 \uba39\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_3_023.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_3_023.mp3",
+   "image": "Images/vocab_1/GIF/1_3_023.gif"
+  },
+  {
+   "id": "261",
+   "vocab": "\ucc28\ub97c \ub9c8\uc2dc\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_3_026.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_3_026.mp3",
+   "image": "Images/vocab_1/GIF/1_3_026.gif"
+  },
+  {
+   "id": "263",
+   "vocab": "\ucee4\ud53c\ub97c \ub9c8\uc2dc\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_3_028.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_3_028.mp3",
+   "image": "Images/vocab_1/GIF/1_3_028.gif"
+  }
+ ],
+ "10:s": [
+  {
+   "id": "240",
+   "vocab": "\ub0ae\uc7a0\uc744 \uc790\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_3_005.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_3_005.mp3",
+   "image": "Images/vocab_1/GIF/1_3_005.gif"
+  },
+  {
+   "id": "244",
+   "vocab": "\uc0ac\uc9c4\uc744 \ucc0d\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_3_009.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_3_009.mp3",
+   "image": "Images/vocab_1/GIF/1_3_009.gif"
+  },
+  {
+   "id": "253",
+   "vocab": "\uc5ec\ud589\uc744 \uac00\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_3_018.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_3_018.mp3",
+   "image": "Images/vocab_1/GIF/1_3_018.gif"
+  },
+  {
+   "id": "254",
+   "vocab": "\uc5ec\ud589\uc744 \ud558\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_3_019.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_3_019.mp3",
+   "image": "Images/vocab_1/GIF/1_3_019.gif"
+  },
+  {
+   "id": "260",
+   "vocab": "\uc9d1\uc5d0\uc11c \uc26c\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_3_025.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_3_025.mp3",
+   "image": "Images/vocab_1/GIF/1_3_025.gif"
+  },
+  {
+   "id": "262",
+   "vocab": "\ucd95\uad6c\ub97c \ud558\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_3_027.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_3_027.mp3",
+   "image": "Images/vocab_1/GIF/1_3_027.gif"
+  }
+ ],
+ "4:s": [
+  {
+   "id": "241",
+   "vocab": "\ubb34\uc5c7\uc744 \ub4dc\ub9b4\uae4c\uc694?",
+   "m_audio": "Audio/vocab_1/male_voice/1_3_006.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_3_006.mp3",
+   "image": "Images/vocab_1/Image/1_3_006.png"
+  },
+  {
+   "id": "251",
+   "vocab": "\uc5bc\ub9c8\uc608\uc694?",
+   "m_audio": "Audio/vocab_1/male_voice/1_3_016.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_3_016.mp3",
+   "image": "Images/vocab_1/Image/1_3_016.jpg"
+  }
+ ],
+ "2:s": [
+  {
+   "id": "242",
+   "vocab": "\ubb50 \ud574\uc694?",
+   "m_audio": "Audio/vocab_1/male_voice/1_3_007.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_3_007.mp3",
+   "image": "Images/vocab_1/GIF/1_3_007.gif"
+  }
+ ],
+ "5:s": [
+  {
+   "id": "259",
+   "vocab": "\uc8c4\uc1a1\ud569\ub2c8\ub2e4",
+   "m_audio": "Audio/vocab_1/male_voice/1_3_024.mp3",
+   "f_audio": "Audio/vocab_1/female_voice/1_3_024.mp3",
+   "image": "Images/vocab_1/Image/1_3_024.jpg"
+  }
+ ]
+}

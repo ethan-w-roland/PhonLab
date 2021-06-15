@@ -2,10 +2,15 @@
 <html lang="en" style="height: 100%; width:100%;">
 
 <head>
-  <meta charset="utf-8" />
-  <link rel="icon" href="%PUBLIC_URL%/south-korea.svg" />
+  <link rel="manifest" href="/manifest.json">
+  <link rel="apple-touch-icon" href="/south-korea.png">
+  <link rel="icon" href="%PUBLIC_URL%/south-korea.svg">
+  <meta name="theme-color" content="#4257b2">
+  <meta charset="UTF-8">
+  <meta name="description" content="Gatech Phonlab Korean">
+  <meta name="keywords" content="GT, Phonology, Korean">
+  <meta name="author" content="Ethan Roland">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <link rel="icon" href="c1-logo-min.png">
   <title>GT Phonlab</title>
 </head>
 
@@ -14,6 +19,21 @@
   <noscript>
     You need to enable JavaScript to run this app.
   </noscript>
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', function() {
+        navigator.serviceWorker.register('worker.js').then(function(registration) {
+          console.log('Worker registration successful', registration.scope);
+        }, function(err) {
+          console.log('Worker registration failed', err);
+        }).catch(function(err) {
+          console.log(err);
+        });
+      });
+    } else {
+      console.log('Service Worker is not supported by browser.');
+    }
+  </script>
 </body>
 
 </html>

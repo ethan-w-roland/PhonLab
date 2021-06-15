@@ -1,10 +1,7 @@
 import Generic from "./Generic"
 import Carousel from "./components/Carousel"
-import data from "./lesson_1.json"
 import styled from 'styled-components'
-
-//make this more generic so the Lessons page can
-//pass in which lesson it is via props
+import data from "./book_1.json"
 
 const Outer = styled.div`
   display: flex;
@@ -54,15 +51,80 @@ const MyCarousel = styled(Carousel)`
   width:100%;
   height: 100%;`
 
-const Flashcards = () => {
+  function filter(limit, list) {
+
+    //error check
+    if (limit===''){
+      alert('error: no selections')
+      return list}
+  
+    //parse restrictions
+    limit = limit.slice(1);
+    limit = limit.split('-');
+    var keys = limit[0];
+    var perfs = limit[1];
+    keys = keys.split(',');
+  
+    //load cookie
+    var good = null;
+    var bad = null;
+    try {
+      var doc = JSON.parse(localStorage.data)
+      good = new Set(doc.good)
+      bad = new Set(doc.bad)
+    } catch (err) {
+      good = new Set()
+      bad = new Set()
+    }
+  
+    //apply restrictions
+    //1st - only chapter and content category
+    var temp = []
+    for (var key of keys) {
+      temp = temp.concat(list[key])
+    }
+  
+    //2nd - only performance categories
+    var output = []
+    for (var card of temp) {
+      if (good.has(card.id)) {
+        if (perfs[0] === '1') {
+          output.push(card)
+        }
+      } else if (bad.has(card.id)) {
+        if (perfs[1] === '1') {
+          output.push(card)
+        }
+      } else {
+        if (perfs[2] === '1') {
+          output.push(card)
+    }}}
+  
+    //error check
+    if (output.length === 0) {
+      alert('error: no applicable vocab')
+      return list}
+  
+    //shuffle order
+    for (let i = output.length-1; i>0; i--) {
+      const j = Math.floor(Math.random() * (i+1));
+      [output[i],output[j]] = [output[j],output[i]];
+    }
+    return output;
+  }
+
+const Flashcards = (props:any) => {
+
+  var query = props.location.search
+  var cards_info = filter(query, data); 
 
   return (
     <Generic>
       <Outer>
       <Container>
-        <ChapterTitle>Lesson 1</ChapterTitle>
-        <ChapterDetails>Getting started with Korean</ChapterDetails>
-        <MyCarousel cards_info={data}/>
+        <ChapterTitle>Vocabulary Flashcards</ChapterTitle>
+        <ChapterDetails>Review Korean vocabulary</ChapterDetails>
+        <MyCarousel cards_info={cards_info}/>
       </Container>
       </Outer>
     </Generic>

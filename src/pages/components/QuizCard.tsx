@@ -16,7 +16,16 @@ const Image = styled.img`
   min-width:50%;
   aspect-ratio:0.67;
   background-color:white;
-  box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+  box-shadow: -2px -2px 0px 0px ${(props:any) => {
+    if (props.good) {
+      return "#19cf4a"
+    } else if (props.bad) {
+      return "#d11b1b"
+    } else {
+      return "rgba(0,0,0,0.5)"
+    }
+  }}, 2px 2px 0px 0px rgba(0,0,0,0.5);
+  border: solid 1px rgba(0,0,0,0.2);
   border-radius: 2px;
   box-sizing: border-box;
   padding: 20px;
@@ -32,6 +41,7 @@ const Options = styled.div`
   justify-content: space-between;`
 
 const Option = styled.div`
+  -webkit-tap-highlight-color: transparent;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -55,21 +65,21 @@ const Option = styled.div`
   cursor: ${(props:any) => props.enabled ? "pointer" : "default" };
   ${(props:any) => props.enabled ? "&:hover {background-color: #e8faff" : ""}`
 
-type QuizCardProps = {image:string, a:string, b:string, c:string, d:string, cor:number, fin:Function}
-const QuizCard = ({image, a, b, c, d, cor, fin}:QuizCardProps) => {
+type QuizCardProps = {good:boolean, bad:boolean, id:string, image:string, a:string, b:string, c:string, d:string, cor:number, fin:Function}
+const QuizCard = ({good, bad, id,image, a, b, c, d, cor, fin}:QuizCardProps) => {
 
   var [sel, set_sel] = useState(-1);
 
   function select(n:number) {
     if (sel<0) {
       set_sel(n);
-      fin(n===cor) //callback to parent to activate next card
+      fin(id,n===cor) //callback to parent to activate next card
     }
   }
 
   return (
     <Container>
-      <Image src={image}/>
+      <Image good={good} bad={bad} src={image}/>
       <Options>
         <Option enabled={sel<0} correct={cor===0} wrong={sel===0&&cor!==0} onClick={() => select(0)}>{a}</Option>
         <Option enabled={sel<0} correct={cor===1} wrong={sel===1&&cor!==1} onClick={() => select(1)}>{b}</Option>
