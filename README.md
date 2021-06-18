@@ -4,6 +4,8 @@ Project of the Georgia Tech Department of Modern Languages & Phonology Laborator
 
 Recipient of the DILAC grant
 
+[Video Demo](https://www.youtube.com/watch?v=g2PBWmSXKlY)
+
 ## Credit
 - Dr.Yongtaek Kim
 - Dr.Robert Griffin
