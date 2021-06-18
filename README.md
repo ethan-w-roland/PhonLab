@@ -1,28 +1,34 @@
-In the project directory, you can run:
+Repository for [https://gt-phonlab.com](https://gt-phonlab.com)
+
+Project of the Georgia Tech Department of Modern Languages & Phonology Laboratory
+
+Recipient of the DILAC grant
+
+## Credit
+- Dr.Yongtaek Kim
+- Dr.Robert Griffin
+- Ethan Roland
+- Chaeeun Song
+
+## Contents
+- Phonology section
+  - small Neural Network running on-browser to automatically assess quality of student vowel phoneme production
+  - utilizes ONNX.js
+- Vocabulary section
+  - flashcard and quiz utilities to facilitate Korean vocabulary aquisition 
+  - localStorage based progress tracking on quizes
+
+## Building & Deployment
+For development server, go to root directory and run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
+This runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
+To build for production, go to root directory and run:
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-
-### `npm run eject`
-
-## DEPLOYMENT
-
-`npm install`
-`npm run build`
-`pm2 serve build 3000 --spa`
+The built project will be located in the /build folder under the root directory.
+Deploy using a suitable production file server configured for Single Page Apps, such as Nginx.
